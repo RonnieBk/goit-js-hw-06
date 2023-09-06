@@ -1,3 +1,5 @@
+"use strict";
+
 const input = document.querySelector("#validation-input");
 const validationLength = input.dataset.length;
 
